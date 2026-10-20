@@ -32,8 +32,8 @@ puis ouvrir http://localhost:8080.
 
 ## Contact
 
-La page « Nous contacter » a été supprimée : les boutons « Nous contacter » /
-« Demande de devis » et le lien du footer ouvrent un e-mail vers
+La page « Nous contacter » et les boutons de contact ont été supprimés.
+Le lien « Nous contacter » du footer ouvre un e-mail vers
 `contact@experience-verticale.com`.
 
 ## Mise en ligne
